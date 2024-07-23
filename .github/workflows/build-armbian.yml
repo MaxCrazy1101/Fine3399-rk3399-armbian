@@ -226,6 +226,7 @@ on:
           - ophub
           - angel
           - QXY716
+          - MaxCrazy1101
 
 env:
   TZ: America/New_York
